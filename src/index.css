@@ -1,4 +1,5 @@
 :root {
+  background: #1d9fd6;
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
@@ -19,7 +20,6 @@
   letter-spacing: 0.18px;
   color-scheme: light dark;
   color: var(--text);
-  background: var(--bg);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
